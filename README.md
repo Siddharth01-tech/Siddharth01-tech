@@ -20,11 +20,10 @@
 ## 👨‍💻 About Me
 
 - 🔭 Working on real-world web development projects.
-- 🌱 Exploring Full Stack Development and Backend Engineering.
 - 💻 Interested in building secure, scalable and user-friendly applications.
-- 🚀 Learning new technologies and improving my development skills.
 - 🤝 Open to collaboration, internships and exciting development opportunities.
-- 🎯 My goal is to become a skilled Software Developer.
+- 👥 Member of GDG & Cloud Computing Cell (CCC) at AKGEC
+- 📫 siddharthrajput320@gmail.com | Open to MERN Stack Internships
 
 ---
 
@@ -60,27 +59,18 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siddharth01-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth01-tech&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Siddharth01-tech&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
