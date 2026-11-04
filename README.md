@@ -1,16 +1,117 @@
-## Hi there 👋
+<!-- ================= PROFILE HEADER ================= -->
 
-<!--
-**Siddharth01-tech/Siddharth01-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hey, I'm Siddharth!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Web Developer | Backend Development Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Exploring+Backend+Development;Learning+New+Technologies;Code.+Learn.+Build.+Repeat." />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Siddharth01-tech&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/Siddharth01-tech?label=Followers&style=social" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Working on real-world web development projects.
+- 🌱 Exploring Full Stack Development and Backend Engineering.
+- 💻 Interested in building secure, scalable and user-friendly applications.
+- 🚀 Learning new technologies and improving my development skills.
+- 🤝 Open to collaboration, internships and exciting development opportunities.
+- 🎯 My goal is to become a skilled Software Developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,redis,vscode,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React.js
+- Backend Development
+- Database Management
+- Data Structures & Algorithms
+- Software Engineering Practices
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Siddharth01_tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/siddharth-b5b2a4386/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great things are built one line of code at a time."
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
