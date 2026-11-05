@@ -29,7 +29,7 @@
 - 🔭 Working on real-world web development projects.
 - 💻 Interested in building secure, scalable and user-friendly applications.
 - 🤝 Open to collaboration, internships and exciting development opportunities.
-- 👥 Member of GDG & Cloud Computing Cell (CCC) at AKGEC
+- 👥 Member of Cloud Computing Cell (CCC) at AKGEC
 - 📫 siddharthrajput320@gmail.com | Open to MERN Stack Internships
 
 ---
