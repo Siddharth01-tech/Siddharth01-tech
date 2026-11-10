@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -84,6 +84,26 @@
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Siddharth01-tech&theme=tokyonight&hide_border=true" />
+
+</div> -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Siddharth01-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Siddharth01-tech&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+  <a href="https://git.io/streak-stats">
+    <img
+      width="70%"
+      src="https://streak-stats.demolab.com?user=Siddharth01-tech&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak Statistics"
+    />
+  </a>
 
 </div>
 
